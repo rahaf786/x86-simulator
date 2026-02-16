@@ -1,15 +1,17 @@
-# x86 Systems Simulator
+# x86 Systems Simulator (Assembly)
 
-# Description
-An x86 assembly simulator that executes custom arithmetic and logical instructions.
+## Description
+A small x86 assembly project that simulates executing custom arithmetic and logical instructions as part of coursework.
 
-# Features
-- Arithmetic operations
-- Bitwise logic
-- Low-level instruction handling
-- Debugged using GDB
+## What it includes
+- Arithmetic operations (e.g., multiplication/division)
+- Bitwise logic operations
+- Debugging and tracing using GDB
 
-# Technologies
-- x86 Assembly
+## Tech
+- x86 Assembly (.s)
 - GDB
-- Linux environment
+- Linux/Unix toolchain
+
+## Notes
+Course project. Code and structure reflect assignment requirements.
